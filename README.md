@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/sameershukla/cloud_devops.svg?style=svg)](https://circleci.com/gh/sameershukla/cloud_devops)
 
 ## Project Overview
 
